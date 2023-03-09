@@ -40,6 +40,7 @@ const Contact = () => {
              </span>
             </span>
     
+    
             <div>
               <img className='w-25 flex justify-center px-5 rounded-lg' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtztufSDxAbeyEQLbLCTZdDGM6q4EWcXjUwrgxtcIIbckio5ImdiDRT-SmDVe9-gjzwXg&usqp=CAU" alt="" />
              </div>
