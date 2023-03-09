@@ -8,7 +8,7 @@ const Contact = () => {
       id:1,
       title:'',
       location:'Urgench,Xorazm,DARITAL',
-      desc:'I`m Wab Developer I study at DATA education centre.Now I`m learning UI/UX design.I also completed the FRONTEND course in 6 months',
+      desc:'My name is Maqsadbek.I`m Web Developer I study at DATA education centre.Now I`m learning UI/UX design.I also completed the FRONTEND course in 6 months',
       company:'DATA ta`lim stansiyasi'
     },
   ]
@@ -32,7 +32,7 @@ const Contact = () => {
           return (
           <div key={id} className='group group/items singleJob w-[350px] p-[50px] bg-white rounded-[10px] hover:bg-gradient-to-r from-indigo-400 to-teal-500 shadow-lg shadow-gray-800 hover:shadow-lg'>
         
-            <span className='flex justify-between items-center gap-4'>
+            <span className='flex justify-center items-center gap-4'>
             <h1 className='text-[16px] font-semibold text-black group-hover:text-white '>{title}</h1>
               
              <span className='flex items-center gap-1 text-orange-400 '>
@@ -41,10 +41,10 @@ const Contact = () => {
             </span>
     
             <div>
-              <img className='w-25 flex justify-center rounded-lg' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtztufSDxAbeyEQLbLCTZdDGM6q4EWcXjUwrgxtcIIbckio5ImdiDRT-SmDVe9-gjzwXg&usqp=CAU" alt="" />
+              <img className='w-25 flex justify-center px-5 rounded-lg' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtztufSDxAbeyEQLbLCTZdDGM6q4EWcXjUwrgxtcIIbckio5ImdiDRT-SmDVe9-gjzwXg&usqp=CAU" alt="" />
              </div>
 
-                 <h6 className='text-gray-800'>{location}</h6> 
+                 <h6 className='text-gray-800 flex mt-2 rounded-lg justify-center '>{location}</h6> 
                  
              <p className='text-[13px] text-[#959595] pt-[20px] border-t-[2px] mt-[20px] font-semibold group-hover:text-white'>
               {desc}

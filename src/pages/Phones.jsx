@@ -7,7 +7,7 @@ const Phones= () => {
   const Data = [
     {
       id:1,
-      title:'iPad 2019',
+      title:'iPhone 14 2019',
       time:'1000$',
       location:'Canada',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -15,7 +15,7 @@ const Phones= () => {
     },
     {
       id:2,
-      title:'iPad 2020',
+      title:'iPhone 14 2020',
       time:'1000$',
       location:'Manchestre',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -23,7 +23,7 @@ const Phones= () => {
     },
     {
       id:3,
-      title:'iPad Pro',
+      title:'iPhone 14Pro',
       time:'1100$',
       location:'Florida',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -31,7 +31,7 @@ const Phones= () => {
     },
     {
       id:4,
-      title:'iPad Pro',
+      title:'iPhone 14 Pro',
       time:'1500$',
       location:'Nigeriya',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -39,7 +39,7 @@ const Phones= () => {
     },
     {
       id:5,
-      title:'iPad',
+      title:'iPhone 14',
       time:'1800$',
       location:'Germany',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -47,7 +47,7 @@ const Phones= () => {
     },
     {
       id:6,
-      title:'iPad Pro ',
+      title:'iPhone 14Pro ',
       time:'1200$',
       location:'France',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -55,7 +55,7 @@ const Phones= () => {
     },
     {
       id:7,
-      title:'iPad Pro Max',
+      title:'iPhone 14',
       time:'1900$',
       location:'Italy',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -63,7 +63,7 @@ const Phones= () => {
     },
     {
       id:8,
-      title:'iPad Pro Max ',
+      title:'iPhone 14Pro Max ',
       time:'2000$',
       location:'Uzbekiston',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -71,7 +71,7 @@ const Phones= () => {
     },
     {
       id:9,
-      title:'iPad Pro 2022',
+      title:'iPhone 14Pro 2022',
       time:'2100$',
       location:'Italy',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
@@ -79,7 +79,7 @@ const Phones= () => {
     },
     {
       id:10,
-      title:'iPadPro Max ',
+      title:'iPhone 14Pro Max ',
       time:'2300$',
       location:'Italy',
       desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tikki. Readfk',
